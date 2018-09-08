@@ -7,9 +7,9 @@
 > nat会话数、获取思科路由器的温度.  
 #### 部署  
 
-> * git clone https://github.com/flyhigh318/expect_shells.git  
-> 部署expect 
->> 　　
+> * git clone https://github.com/flyhigh318/expect_shells.git 
+>  
+> 部署expect 　
 >> ```
 >>    yum install expect -y 
 >> ```
