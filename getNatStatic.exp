@@ -1,6 +1,5 @@
 #!/usr/bin/expect
-# function: the script can auto reload every 2 day.
-# author: allentang
+# author: Abner.W
 
 
 set user "qqm"
