@@ -3,7 +3,7 @@
 
 
 set user "queqianme"
-set passwd "gz@qQm168$"
+set passwd "gz\@qQm168$"
 set enablePasswd "ciscoaiyaya"
 set routeIp "192.168.203.1"
 set cmdEnable "enable"
